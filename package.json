@@ -1,7 +1,17 @@
 {
   "name": "@jmgayosso/ipfs-components-vue",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Some basic components for upload and retrieve ipfs files.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmgayosso/ipfs-components-vue"
+  },
+  "keywords": [
+    "vue",
+    "ipfs",
+    "components",
+    "files"
+  ],
   "main": "dist/jmgayosso-ipfs-components-vue.ssr.js",
   "browser": "dist/jmgayosso-ipfs-components-vue.esm.js",
   "module": "dist/jmgayosso-ipfs-components-vue.esm.js",
