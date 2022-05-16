@@ -12,6 +12,9 @@ export default /*#__PURE__*/{
 <template>
   <div class="jmgayosso-ipfs-components-vue-sample">
     ipfs-uploader-file
+    <button @click="$emit('onEvent')">
+      test
+    </button>
   </div>
 </template>
 
